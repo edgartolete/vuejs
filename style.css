@@ -1,0 +1,24 @@
+.box{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+
+.box2{
+    background-color:blueviolet;
+    height: 200px;
+    width: 200px;
+}
+.box3{
+    background-color:brown;
+    height: 200px;
+    width: 200px;
+}
+[v-cloak]{
+    display: none;
+}
+
+input {
+    margin: 10px;
+    display: block;
+}
